@@ -17,4 +17,4 @@ Este proyecto puede servir como plantilla base para crear portafolios personales
 - JavaScript
 
 **🔗 Accede al perfil profesional en línea:**  
-[Ver perfil profesional en línea](https://maycolcruzfern.github.io/perfil-profesional/)
+[Ver perfil profesional en línea](https://maycolcruzfern.github.io/web-perfil-profesional/)
